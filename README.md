@@ -24,3 +24,5 @@ This is a simple simulation of a pandemic, with a few assumptions:
 - The disease is not lethal and everyone infected survives until the end of the simulation
 - The simulation may either end when every single person gets infected and everyone recovers, or the disease spreads too slowly and initial population of sick people recovers before spreading the disease further
 - For the same input parameters, the simulation may have a different outcomes
+
+This repository was created during data science course hosted by [Mateusz Dorobek](https://github.com/mateuszdorobek)
