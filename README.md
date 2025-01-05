@@ -1,5 +1,7 @@
 # Pandemic simulation
 
+[https://pandemic-simulation.streamlit.app/](https://pandemic-simulation.streamlit.app/)
+
 ## Running the code
 
 Install requirements
